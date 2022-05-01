@@ -39,6 +39,6 @@ tzdata==2022.1
 tzlocal==4.2
 urllib3==1.26.9
 uvicorn
-uvloop==0.16.0
-watchgod==0.8.2
-websockets==10.3
+uvloop
+watchgod
+websockets
