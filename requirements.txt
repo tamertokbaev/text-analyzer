@@ -17,7 +17,7 @@ jusText==3.0.0
 langcodes==3.3.0
 lxml==4.8.0
 nltk
-numpy==1.22.3
+numpy
 pydantic==1.9.0
 python-dateutil==2.8.2
 python-dotenv==0.20.0
