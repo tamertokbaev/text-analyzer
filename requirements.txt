@@ -1,5 +1,5 @@
 anyio==3.5.0
-asgiref==3.5.1
+asgiref
 backports.zoneinfo==0.2.1
 beautifulsoup4==4.11.1
 certifi==2021.10.8
